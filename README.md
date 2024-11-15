@@ -11,7 +11,7 @@ This repository is a collection of my experiments, learning projects, and fun im
 
 ## What's Inside:
 
-- `Vector`: A C++ implementation of a custom vector container with performance optimization, allocators, and advanced features.
+- `Vector`: A C++ implementation of a custom vector container - my first container.
 - `LeetCode Solutions`: A growing list of solved problems with explanations and Python/C++ implementations.
 - `Scripts`: Various Python scripts and tools that I find useful or interesting.
 
